@@ -1,0 +1,58 @@
+body {
+  background-color: burlywood;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body h3 {
+  margin-top: 50px;
+  font-size: 25px;
+  color: gray;
+}
+body .input-hafta {
+  align-items: center;
+}
+body .input-hafta h5 {
+  font-size: 15px;
+  color: rgb(118, 120, 120);
+}
+body .input-hafta .input {
+  width: 550px;
+  color: rgb(0, 0, 0);
+}
+body .btn {
+  padding: 8px 18px;
+  align-self: center;
+  margin: 10px 0 10px -460px;
+  border: 1px solid none !important;
+}
+body .result {
+  color: orange;
+}
+body .FizzBuzz {
+  color: red;
+}
+body .btn-inp {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(221, 214, 214);
+  width: 600px;
+  align-items: center;
+}
+body .btn-inp .number {
+  width: 528px;
+  margin-top: 10px;
+}
+body .btn-inp .btn-success {
+  padding: 5px 200px;
+  margin-left: 0px;
+}
+body .number-answer {
+  color: rgb(6, 151, 151);
+  border: 1px solid rgb(6, 151, 151);
+  padding: 5px 7px;
+  border-radius: 5px;
+  margin-top: 100px;
+}/*# sourceMappingURL=style.css.map */
